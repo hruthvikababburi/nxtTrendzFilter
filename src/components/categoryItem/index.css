@@ -1,0 +1,23 @@
+.category-item {
+  font-family: 'Roboto';
+  color: #64748b;
+  cursor: pointer;
+  font-size: 18px;
+  outline: none;
+  margin-left: 0px;
+  margin-bottom: 15px;
+}
+.cat-btn {
+  cursor: pointer;
+  font-family: 'Roboto';
+  color: #64748b;
+
+  font-size: 18px;
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-style: none;
+}

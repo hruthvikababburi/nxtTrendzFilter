@@ -1,0 +1,28 @@
+.each-star-item {
+  cursor: pointer;
+
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.text {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 18px;
+}
+.ratingBtn {
+  cursor: pointer;
+  font-size: 18px;
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  border-style: none;
+}
+.stars {
+  width: 70%;
+  height: 25px;
+}
